@@ -1,7 +1,11 @@
 <ul>
     <li>Apples</li>
     <li>Bananas</li>
-    <li>Soy Milk</li>
+<<<<<<< HEAD
+    <li>Milk</li>
+=======
+    <li>Almond Milk</li>
+>>>>>>> ce2817b1bf5e25b6f6295f0d76856f98542ef2ef
     <li>Vegetables</li>
     <li>Cookies</li>
 </ul>
